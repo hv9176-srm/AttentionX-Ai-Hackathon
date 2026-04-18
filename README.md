@@ -17,7 +17,7 @@ AttentionX AI automatically converts long-form educational videos into **short, 
 - 🎞️ MoviePy → Generates vertical reel with captions
 - ## ▶️ How to Run
 
-```bash
+''bash
 pip install -r requirements.txt
 streamlit run frontend.py
 
