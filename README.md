@@ -7,7 +7,8 @@ Turn long educational videos into viral short-form reels using AI.
 ##  What is this?
 AttentionX AI automatically converts long-form educational videos into **short, viral reels** using AI.
 ## 📸 App Preview
-![App Screenshot](https://github.com/user-attachments/assets/0f394bb2-15b7-4f0c-ac1a-bda132d8b28d)
+![App Screenshot](https://github.com/user-attachments/assets/"https://github.com/user-attachments/assets/6999ee7f-56eb-4204-bea9-6b70860c0ec6" 
+)
 
 ##  How it works
 - 🎤 Whisper → Transcribes video
