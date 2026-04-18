@@ -1,4 +1,5 @@
 # 🎬 AttentionX AI – Automated Content Repurposing Engine
+Turn long educational videos into viral short-form reels using AI.
 
 ##  Demo Video
 👉 [Watch the Demo](https://drive.google.com/file/d/1-Y3_wwSDWkraMT4MWg8Kbbs0adj2GwGZ/view?usp=drive_link)
