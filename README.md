@@ -15,6 +15,11 @@ AttentionX AI automatically converts long-form educational videos into **short, 
 - 🔊 Librosa → Extracts audio intensity
 - 🤖 Gemini → Scores emotional/viral moments
 - 🎞️ MoviePy → Generates vertical reel with captions
+- ## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run frontend.py
 
 ## ✨ Features
 - Auto highlight detection
